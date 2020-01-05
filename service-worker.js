@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/top-7-android-games/precache-manifest.7baea79a77a709ef93c566368e8ac881.js"
+  "/top-7-android-games/precache-manifest.c9ee28fd08ff979854eb459d2a58ab70.js"
 );
 
 self.addEventListener('message', (event) => {
