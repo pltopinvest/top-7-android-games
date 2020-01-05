@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/top-7-android-games/static/css/main.3ccbf403.chunk.css",
-    "main.js": "/top-7-android-games/static/js/main.703f9217.chunk.js",
-    "main.js.map": "/top-7-android-games/static/js/main.703f9217.chunk.js.map",
+    "main.css": "/top-7-android-games/static/css/main.b4b7ffce.chunk.css",
+    "main.js": "/top-7-android-games/static/js/main.cdd5ab17.chunk.js",
+    "main.js.map": "/top-7-android-games/static/js/main.cdd5ab17.chunk.js.map",
     "runtime-main.js": "/top-7-android-games/static/js/runtime-main.2f70a497.js",
     "runtime-main.js.map": "/top-7-android-games/static/js/runtime-main.2f70a497.js.map",
     "static/js/2.95c779ed.chunk.js": "/top-7-android-games/static/js/2.95c779ed.chunk.js",
     "static/js/2.95c779ed.chunk.js.map": "/top-7-android-games/static/js/2.95c779ed.chunk.js.map",
     "index.html": "/top-7-android-games/index.html",
-    "precache-manifest.cbffd48b4fc2cfb19f955537c7cdad48.js": "/top-7-android-games/precache-manifest.cbffd48b4fc2cfb19f955537c7cdad48.js",
+    "precache-manifest.9ca2643aa037216ead29e33cac339efc.js": "/top-7-android-games/precache-manifest.9ca2643aa037216ead29e33cac339efc.js",
     "service-worker.js": "/top-7-android-games/service-worker.js",
-    "static/css/main.3ccbf403.chunk.css.map": "/top-7-android-games/static/css/main.3ccbf403.chunk.css.map",
+    "static/css/main.b4b7ffce.chunk.css.map": "/top-7-android-games/static/css/main.b4b7ffce.chunk.css.map",
     "static/js/2.95c779ed.chunk.js.LICENSE": "/top-7-android-games/static/js/2.95c779ed.chunk.js.LICENSE",
     "static/media/author.jpg": "/top-7-android-games/static/media/author.15ceff50.jpg",
     "static/media/likes-animation.gif": "/top-7-android-games/static/media/likes-animation.2893eb72.gif",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.2f70a497.js",
     "static/js/2.95c779ed.chunk.js",
-    "static/css/main.3ccbf403.chunk.css",
-    "static/js/main.703f9217.chunk.js"
+    "static/css/main.b4b7ffce.chunk.css",
+    "static/js/main.cdd5ab17.chunk.js"
   ]
 }
