@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ef69844b50ba90edfdfa2a04f1574fd",
+    "revision": "2aa90c415f2f31e28d9bcff836715ed5",
     "url": "/top-7-android-games/index.html"
   },
   {
-    "revision": "4a4dcb1ad013c23681cc",
+    "revision": "0981dc3428c5f0229f7e",
     "url": "/top-7-android-games/static/css/main.3ccbf403.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/top-7-android-games/static/js/2.95c779ed.chunk.js.LICENSE"
   },
   {
-    "revision": "4a4dcb1ad013c23681cc",
-    "url": "/top-7-android-games/static/js/main.39878044.chunk.js"
+    "revision": "0981dc3428c5f0229f7e",
+    "url": "/top-7-android-games/static/js/main.75c86e67.chunk.js"
   },
   {
     "revision": "5968b80efb43a3aed990",
