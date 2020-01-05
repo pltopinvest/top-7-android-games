@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/top-7-android-games/static/css/main.3ccbf403.chunk.css",
-    "main.js": "/top-7-android-games/static/js/main.2acdb226.chunk.js",
-    "main.js.map": "/top-7-android-games/static/js/main.2acdb226.chunk.js.map",
+    "main.js": "/top-7-android-games/static/js/main.703f9217.chunk.js",
+    "main.js.map": "/top-7-android-games/static/js/main.703f9217.chunk.js.map",
     "runtime-main.js": "/top-7-android-games/static/js/runtime-main.2f70a497.js",
     "runtime-main.js.map": "/top-7-android-games/static/js/runtime-main.2f70a497.js.map",
     "static/js/2.95c779ed.chunk.js": "/top-7-android-games/static/js/2.95c779ed.chunk.js",
     "static/js/2.95c779ed.chunk.js.map": "/top-7-android-games/static/js/2.95c779ed.chunk.js.map",
     "index.html": "/top-7-android-games/index.html",
-    "precache-manifest.c9ee28fd08ff979854eb459d2a58ab70.js": "/top-7-android-games/precache-manifest.c9ee28fd08ff979854eb459d2a58ab70.js",
+    "precache-manifest.cbffd48b4fc2cfb19f955537c7cdad48.js": "/top-7-android-games/precache-manifest.cbffd48b4fc2cfb19f955537c7cdad48.js",
     "service-worker.js": "/top-7-android-games/service-worker.js",
     "static/css/main.3ccbf403.chunk.css.map": "/top-7-android-games/static/css/main.3ccbf403.chunk.css.map",
     "static/js/2.95c779ed.chunk.js.LICENSE": "/top-7-android-games/static/js/2.95c779ed.chunk.js.LICENSE",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.2f70a497.js",
     "static/js/2.95c779ed.chunk.js",
     "static/css/main.3ccbf403.chunk.css",
-    "static/js/main.2acdb226.chunk.js"
+    "static/js/main.703f9217.chunk.js"
   ]
 }
