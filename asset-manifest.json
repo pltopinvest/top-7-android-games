@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/top-7-android-games/static/css/main.b4b7ffce.chunk.css",
-    "main.js": "/top-7-android-games/static/js/main.cdd5ab17.chunk.js",
-    "main.js.map": "/top-7-android-games/static/js/main.cdd5ab17.chunk.js.map",
+    "main.css": "/top-7-android-games/static/css/main.6950e6f3.chunk.css",
+    "main.js": "/top-7-android-games/static/js/main.67b81a27.chunk.js",
+    "main.js.map": "/top-7-android-games/static/js/main.67b81a27.chunk.js.map",
     "runtime-main.js": "/top-7-android-games/static/js/runtime-main.2f70a497.js",
     "runtime-main.js.map": "/top-7-android-games/static/js/runtime-main.2f70a497.js.map",
-    "static/js/2.95c779ed.chunk.js": "/top-7-android-games/static/js/2.95c779ed.chunk.js",
-    "static/js/2.95c779ed.chunk.js.map": "/top-7-android-games/static/js/2.95c779ed.chunk.js.map",
+    "static/js/2.268f8ec1.chunk.js": "/top-7-android-games/static/js/2.268f8ec1.chunk.js",
+    "static/js/2.268f8ec1.chunk.js.map": "/top-7-android-games/static/js/2.268f8ec1.chunk.js.map",
     "index.html": "/top-7-android-games/index.html",
-    "precache-manifest.9ca2643aa037216ead29e33cac339efc.js": "/top-7-android-games/precache-manifest.9ca2643aa037216ead29e33cac339efc.js",
+    "precache-manifest.07d6f1f6c4e8f7e7e6469186a6f0f63f.js": "/top-7-android-games/precache-manifest.07d6f1f6c4e8f7e7e6469186a6f0f63f.js",
     "service-worker.js": "/top-7-android-games/service-worker.js",
-    "static/css/main.b4b7ffce.chunk.css.map": "/top-7-android-games/static/css/main.b4b7ffce.chunk.css.map",
-    "static/js/2.95c779ed.chunk.js.LICENSE": "/top-7-android-games/static/js/2.95c779ed.chunk.js.LICENSE",
+    "static/css/main.6950e6f3.chunk.css.map": "/top-7-android-games/static/css/main.6950e6f3.chunk.css.map",
+    "static/js/2.268f8ec1.chunk.js.LICENSE": "/top-7-android-games/static/js/2.268f8ec1.chunk.js.LICENSE",
     "static/media/author.jpg": "/top-7-android-games/static/media/author.15ceff50.jpg",
     "static/media/likes-animation.gif": "/top-7-android-games/static/media/likes-animation.2893eb72.gif",
     "static/media/profile-example2.png": "/top-7-android-games/static/media/profile-example2.34afc4f1.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f70a497.js",
-    "static/js/2.95c779ed.chunk.js",
-    "static/css/main.b4b7ffce.chunk.css",
-    "static/js/main.cdd5ab17.chunk.js"
+    "static/js/2.268f8ec1.chunk.js",
+    "static/css/main.6950e6f3.chunk.css",
+    "static/js/main.67b81a27.chunk.js"
   ]
 }
